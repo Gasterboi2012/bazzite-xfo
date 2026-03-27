@@ -35,9 +35,13 @@ modules:
         - vim
         - nano 
         - waydroid
-        - sunshine
         - ptyxis
-
+  
+  - type: rpm-ostree
+      remove:
+        - sunshine
+        - waydroid
+        
   - type: default-flatpaks
     configurations:
       - notify: false # Send notification after install/uninstall is finished (true/false)
