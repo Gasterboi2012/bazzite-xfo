@@ -38,7 +38,7 @@ modules:
         - ptyxis
   
   - type: rpm-ostree
-      remove:
+    remove:
         - sunshine
         - waydroid
         
