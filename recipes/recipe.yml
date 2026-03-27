@@ -36,9 +36,6 @@ modules:
         - nano 
         - waydroid
         - ptyxis
-  
-  - type: rpm-ostree
-    remove:
         - sunshine
         
   - type: default-flatpaks
