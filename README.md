@@ -1,6 +1,6 @@
 # bazzite-xfo &nbsp; [![bluebuild build badge](https://github.com/gasterboi2012/bazzite-xfo/actions/workflows/build.yml/badge.svg)](https://github.com/gasterboi2012/bazzite-xfo/actions/workflows/build.yml)
 
-This is a WORKING bazzite xfo version since the first time i tried was mediocre, so i improved and added my own tweaks.
+This is a WORKING bazzite xfo version since the first time i tried, it was mediocre, so i improved and added my own tweaks.
 again, this is MY personal image so you wont like whats on here unless you agree with my changes.
 
 ## Installation
